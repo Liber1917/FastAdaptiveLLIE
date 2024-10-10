@@ -1,0 +1,3 @@
+unzip the downloaded checkpoints zip file in this folder
+
+the ckpt file has been replaced by keras model file 
